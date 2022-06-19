@@ -1,0 +1,45 @@
+###############    motor 2  #######################
+motor_boy=24.3mm
+motor genişligi= 10 mm
+mkotor genişlik_2=12 mm
+motor uc _uzunluk=9.9mm
+uc_cap=3 mm
+###############################
+
+##############  3 pil ################
+pil_uzunluk= 65 mm
+pil_cap=9 mm
+
+#########################################
+
+##############  motor surucu######
+
+surucu_uzunluk =43 mm
+suruu _ genişlik=26 mm
+yukseklık=43 mm
+###############################
+
+###########  devre kartı ##############
+
+devre_kart_uzunluk=66.1 mm
+devre_kart_genişlik=41.35 mm 
+devre_yukseklik= 20.9 mm
+
+##########################################
+
+############  uzaklık _sensor   2 adet #####3
+genişlik=10.75 mm
+uzunluk=25 mm
+yukseklık=2.5 mm
+##########################################
+
+###############  uzaklık sensoru 1 adet ##########
+genişlik=10.7 mm
+uzunluk=13.4 mm
+yukseklık=3.55 mm
+################################################
+
+
+###############   tekerlek 4 #######
+cap=28.6 mm 
+genişlik= 6.6 mm
